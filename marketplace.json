@@ -1,6 +1,5 @@
 {
-  "$schema": "https://json.schemastore.org/claude-code-marketplace-schema.json",
   "name": "bidzaar-marketplace",
   "description": "Внутренний маркетплейс скиллов Bidzaar: бизнес-процессы компании и, далее, остальные скиллы организации",
-  "plugins": ["plugins/bidzaar-processy"]
+  "plugins": ["bidzaar-processy"]
 }

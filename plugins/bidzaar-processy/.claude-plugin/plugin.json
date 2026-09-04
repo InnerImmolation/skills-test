@@ -1,0 +1,10 @@
+{
+  "name": "bidzaar-processy",
+  "version": "0.1.0",
+  "description": "Внутренние бизнес-процессы Bidzaar: карточки процессов по девяти департаментам, реестр, стыки и вопросы владельцам",
+  "author": {
+    "name": "Bidzaar"
+  },
+  "license": "proprietary",
+  "skills": ["bidzaar-processy"]
+}
